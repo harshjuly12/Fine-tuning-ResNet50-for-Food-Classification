@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td><img src="https://github.com/harshjuly12/Fine-tuning-ResNet50-for-Food-Classification/assets/112745312/2013d017-4591-4860-9b9a-0536204d1169" width="120" style="margin-right: 10;"></td>
-    <td><h1 style="margin: 0;">Food Classification and Calories Estimation</h1></td>
+    <td><h1 style="margin: 0;">Fine Tuning ResNet50 For Food Classification & Calories Estimation</h1></td>
   </tr>
 </table>
 
